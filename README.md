@@ -8,6 +8,8 @@ Manoja U  - 1MS18CS068<br />
 
 ## Program to compare Sequential and Parallel performances of Merge Sort in milliseconds <br />
 
+<div align="center">
+
 | n | Parallel | Sequential |
 | ---- | ----- | ----- |
 | 10 | 0.009 | 0.004 |
@@ -19,3 +21,5 @@ Manoja U  - 1MS18CS068<br />
 | 4000 | 1.226 | 3.319 |
 | 5000 | 0.968 | 4.225 |
 | 10000 | 3.826 | 5.773 |
+  
+</div>
